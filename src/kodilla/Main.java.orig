@@ -1,0 +1,12 @@
+package kodilla;
+
+public class Main {
+
+    public static void main(String[] args) {
+<<<<<<< HEAD
+	    System.out.println("hello in Branch A");
+=======
+	    System.out.println("hello from branch B b b b ");
+>>>>>>> BRANCH_B
+    }
+}
