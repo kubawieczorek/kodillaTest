@@ -1,4 +1,3 @@
-package kodilla;
 
 public class Main {
 
@@ -6,7 +5,7 @@ public class Main {
 <<<<<<< HEAD
 	    System.out.println("hello from branch master");
 =======
-	    System.out.println("hello from branch B");
+	    System.out.println("hello from branch B A");
 >>>>>>> BRANCH_B
     }
 }
